@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Job board App
+
+Appliacation for the Job Board
+
+## Applicaion Plan
+
+- `/` : Home Page
+- `/new` : Create a new Job
 
 ## Getting Started
 
